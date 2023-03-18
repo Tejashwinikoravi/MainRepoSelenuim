@@ -1,0 +1,36 @@
+16:28:42.217 [main] DEBUG tests.LoginTest - launchinf browser
+16:28:44.173 [main] DEBUG tests.LoginTest - launchinf url
+16:28:45.638 [main] DEBUG tests.LoginTest - navigating to landing page
+16:28:45.659 [main] DEBUG tests.LoginTest - click on Login
+16:28:49.391 [main] DEBUG tests.LoginTest - enter username
+16:28:49.473 [main] DEBUG tests.LoginTest - enter Pwd
+15:02:14.662 [main] DEBUG tests.LoginTest - launchinf browser
+15:02:18.054 [main] DEBUG tests.LoginTest - launchinf url
+15:02:19.981 [main] DEBUG tests.LoginTest - navigating to landing page
+15:02:20.012 [main] DEBUG tests.LoginTest - click on Login
+15:02:24.247 [main] DEBUG tests.LoginTest - enter username
+15:02:24.464 [main] DEBUG tests.LoginTest - enter Pwd
+15:04:28.062 [main] DEBUG tests.LoginTest - launchinf browser
+15:04:29.860 [main] DEBUG tests.LoginTest - launchinf url
+15:04:31.342 [main] DEBUG tests.LoginTest - navigating to landing page
+15:04:31.364 [main] DEBUG tests.LoginTest - click on Login
+15:04:35.006 [main] DEBUG tests.LoginTest - enter username
+15:04:35.160 [main] DEBUG tests.LoginTest - enter Pwd
+15:18:28.597 [TestNG-tests-3] DEBUG tests.LoginTest - launchinf browser
+15:18:30.765 [TestNG-tests-3] DEBUG tests.LoginTest - launchinf url
+15:18:33.296 [TestNG-tests-3] DEBUG tests.LoginTest - navigating to landing page
+15:18:33.325 [TestNG-tests-3] DEBUG tests.LoginTest - click on Login
+15:18:37.322 [TestNG-tests-3] DEBUG tests.LoginTest - enter username
+15:18:37.417 [TestNG-tests-3] DEBUG tests.LoginTest - enter Pwd
+15:27:50.999 [TestNG-tests-3] DEBUG tests.LoginTest - launchinf browser
+15:27:54.290 [TestNG-tests-3] DEBUG tests.LoginTest - launchinf url
+15:28:01.267 [TestNG-tests-3] DEBUG tests.LoginTest - navigating to landing page
+15:28:01.311 [TestNG-tests-3] DEBUG tests.LoginTest - click on Login
+15:28:05.367 [TestNG-tests-3] DEBUG tests.LoginTest - enter username
+15:28:05.625 [TestNG-tests-3] DEBUG tests.LoginTest - enter Pwd
+16:29:11.437 [TestNG-tests-3] DEBUG tests.LoginTest - launchinf browser
+16:29:15.674 [TestNG-tests-3] DEBUG tests.LoginTest - launchinf url
+16:29:18.214 [TestNG-tests-3] DEBUG tests.LoginTest - navigating to landing page
+16:29:18.274 [TestNG-tests-3] DEBUG tests.LoginTest - click on Login
+16:29:23.340 [TestNG-tests-3] DEBUG tests.LoginTest - enter username
+16:29:23.536 [TestNG-tests-3] DEBUG tests.LoginTest - enter Pwd
